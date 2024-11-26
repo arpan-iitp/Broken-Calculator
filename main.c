@@ -8,7 +8,7 @@
 #include <ctype.h>
 #include <stdbool.h>
 
-// GAME 1 -- BROKEN CALCULATOR  (By HARSHVARDHAN [2201EE30] & LAKSHYA SINGH [2201CE30])
+// GAME 1 -- BROKEN CALCULATOR  (By ARPAN PATEL [2201MM37] & LAKSHYA SINGH [2201CE30])
 
 typedef struct stack1 // creating stack1 for postfix conversion
 {
